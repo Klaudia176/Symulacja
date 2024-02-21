@@ -1,0 +1,5 @@
+﻿  Symulacja.cpp
+C:\Users\kakit\source\repos\symulacja_wedkowanie\symulacja_wedkowanie\Symulacja.cpp(15,34): warning C4244: "=": konwersja z "ULONGLONG" do "int", możliwa utrata danych
+C:\Users\kakit\source\repos\symulacja_wedkowanie\symulacja_wedkowanie\Symulacja.cpp(20,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\kakit\source\repos\symulacja_wedkowanie\symulacja_wedkowanie\Symulacja.cpp(373,7): warning C4102: "std": etykieta, do której nie istnieje odwołanie
+  symulacja_wedkowanie.vcxproj -> C:\Users\kakit\source\repos\symulacja_wedkowanie\x64\Debug\symulacja_wedkowanie.exe

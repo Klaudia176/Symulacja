@@ -1,0 +1,13 @@
+Symulacja nr: 12766
+Liczba haczyków: 5
+Liczba zahaczonych ryb: 3
+liczba ryb roslino¿ernych: 0
+Liczba ryb drapie¿nych: 0
+Liczba roœlin: 10
+Czas trwania: 2000 milisekund
+Poczatkowa liczba ryb roœlino¿ernych: 2
+Poczatkowa liczba ryb drapie¿nych: 1
+
+
+1081779156
+
